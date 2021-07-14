@@ -1,0 +1,11 @@
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.navbar li {
+    padding: 1em;
+}
